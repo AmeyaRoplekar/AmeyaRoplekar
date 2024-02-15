@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @AmeyaRoplekar
+  ![HelloFriendHiGIF](https://github.com/AmeyaRoplekar/AmeyaRoplekar/assets/160168176/f085758f-2be3-4197-aaba-9f45e21a8782)
+
+- 🏫 Studying Engineering at ![VESIT](https://vesit.ves.ac.in/)
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Machine Learning Specialisation 
+- 📫 How to reach me ameya0103@gmail.com
+- 😄 Pronouns: He/Him
+-  
+
+<!---
+AmeyaRoplekar/AmeyaRoplekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
